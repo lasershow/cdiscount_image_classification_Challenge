@@ -16,6 +16,10 @@
 
 ## Prior knowledge：　事前知識
 このプロジェクトに参加するためには、主に以下の事前知識が必要だと思われます。
+まずは下記のkernelでデータ・セットの理解を行いましょう。
+
+https://www.kaggle.com/vfdev5/data-visualization-and-analysis
+
 ## Getting Start：　プロジェクトの始め方
 まずは、カーネル上に存在する第三者のデータ分析や探索から行うのが良いでしょう。
 他人の実行結果を写経することがプロジェクトに参加する第一歩目です。
